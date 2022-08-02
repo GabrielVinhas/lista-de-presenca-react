@@ -18,7 +18,7 @@ Aplicação feita em React.js
 
 ## 🛠️ Construído com
 
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+<img height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 REACT.JS 
 
