@@ -4,7 +4,7 @@
 
 ## Meu primeiro projeto feito em React.js
 
-Deploy: Indisponível no momento =/
+Deploy: https://lista-de-presenca-react.vercel.app/
 
 ## 🚀 Começando -
 
